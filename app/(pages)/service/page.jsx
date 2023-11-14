@@ -11,9 +11,7 @@ export default function Page() {
                 <div className="section-container">
                     <div className="flex-grid">
                         <h1 className="title">Service</h1>
-                        <p className="text">Nach dem Kauf zählt der Service!
-
-Unsere zertifizierte Service-Werkstatt erledigt für Sie Reparaturen, Kontrollen und Service Arbeiten an Ihren Messinstrumenten.</p>
+                        <p className="text">Nach dem Kauf zählt der Service! Unsere zertifizierte Service-Werkstatt erledigt für Sie Reparaturen, Kontrollen und Service Arbeiten an Ihren Messinstrumenten.</p>
                     </div>
                 </div>
             </section>
