@@ -1,4 +1,35 @@
 {
-    "category": "Zubehör Totalstationen",
-    "products": []
+    "category": "Übersicht Totalstation Zubehör",
+    "products": [
+        {
+            "name": "Baulotstab Zweibeinstative",
+            "link": "/shop/zubehoer-totalstationen/baulotstab-zweibeinstative",
+            "image": "/images/shop/zubehoer-totalstation/crp5.webp"
+        },
+        {
+            "name": "Akku und Ladegerät",
+            "link": "/shop/zubehoer-totalstationen/akku-und-ladegerät/new-products",
+            "image": "/images/shop/zubehoer-totalstation/geb334.webp"
+        },
+        {
+            "name": "Prisma und Reflekt",
+            "link": "/shop/zubehoer-totalstationen/prisma-und-reflekt/new-products",
+            "image": "/images/shop/zubehoer-totalstation/mpr122.webp"
+        },
+        {
+            "name": "Halterung",
+            "link": "/shop/zubehoer-totalstationen/halterung/new-products",
+            "image": "/images/shop/zubehoer-totalstation/cmb16.webp"
+        },
+        {
+            "name": "Sontiges Zubehör",
+            "link": "/shop/zubehoer-totalstationen/sontiges-zubehör/new-products",
+            "image": "/images/shop/zubehoer-totalstation/ccd18.webp"
+        },
+        {
+            "name": "Behälter",
+            "link": "/shop/zubehoer-totalstationen/behälter/new-products",
+            "image": "/images/shop/zubehoer-totalstation/ctc9.webp"
+        }
+    ]
 }
